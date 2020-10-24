@@ -1,0 +1,19 @@
+.blue {
+  height: 40px;
+  width: 40px;
+  background-color: blue;
+  border-radius: 50%;
+  visibility:hidden;
+  display: inline-block; 
+}
+
+.red {
+  height: 40px;
+  width: 40px;
+  background-color: red;
+  border-radius: 50%;
+  visibility:hidden;
+  display:inline-block;
+}
+
+/* display:inline-block; */
